@@ -46,7 +46,7 @@ Para rodar as células no Google Colab, basta clicar no ícone de 'play', que se
 ### **1. Clonar o repositório:**
 
 ```python
-git clone https://github.com/projeto-de-algoritmos/Grafos1_TaxiTrajeto.git
+git clone https://github.com/projeto-de-algoritmos/Grafos2_TaxiTrajeto.git
 ```
 
 **Para realizar os próximos passos, acesse pelo terminal a pasta do projeto.**
@@ -64,12 +64,12 @@ pip install virtualenv
 
 - Criar o ambiente virtual
 ```python
-virtualenv Grafos1_TaxiTrajeto
+virtualenv Grafos2_TaxiTrajeto
 ```
 
 - Acessar o ambiente virtual
 ```python
-Grafos1_TaxiTrajeto/Scripts/Activate
+Grafos2_TaxiTrajeto/Scripts/Activate
 ```
 
 ### **3. Instalar as dependências necessárias:** 
